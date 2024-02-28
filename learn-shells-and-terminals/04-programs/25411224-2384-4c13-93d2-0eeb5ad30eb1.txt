@@ -1,0 +1,9 @@
+Welcome to the worldbanc CLI tool!
+Please enter your name:
+Abdelrahman
+Please enter your email:
+blabla@gmail.com
+============================================
+Your name is Abdelrahman and your email is blabla@gmail.com
+Your response has not been recorded because this is just a local script.
+Goodbye!
