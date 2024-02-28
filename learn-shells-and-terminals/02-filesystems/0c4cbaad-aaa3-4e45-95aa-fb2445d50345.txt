@@ -1,0 +1,4 @@
+/home/abdlrhmnelsyed/worldbanc/public/products/loans/jointloanshark.txt
+/home/abdlrhmnelsyed/worldbanc/public/products/credit_cards/jointrewardsplux.txt
+/home/abdlrhmnelsyed/worldbanc/public/products/accounts/jointchecking.txt
+/home/abdlrhmnelsyed/worldbanc/public/products/accounts/jointsavings.txt
