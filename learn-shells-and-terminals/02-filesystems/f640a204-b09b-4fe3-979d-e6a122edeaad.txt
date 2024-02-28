@@ -1,0 +1,1 @@
+A 'names.csv' file in a 'workspace' directory in the home directory
