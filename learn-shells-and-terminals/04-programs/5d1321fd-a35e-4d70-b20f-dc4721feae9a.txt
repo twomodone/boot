@@ -1,0 +1,1 @@
+A bunch of gibberish (raw bytes attempting to be interpreted as text)
