@@ -1,0 +1,1 @@
+Because the config file runs automatically when you start a new shell session
