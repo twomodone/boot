@@ -1,0 +1,1 @@
+The text 'Hello world' is printed to the terminal's console.
