@@ -1,0 +1,1 @@
+You'll be provided a syntax error message and the code won't execute
