@@ -1,0 +1,1 @@
+Create an entrypoint function (usually called 'main') and call it at the end of the file
