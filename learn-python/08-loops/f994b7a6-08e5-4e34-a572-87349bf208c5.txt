@@ -1,0 +1,1 @@
+Because print(i) only happens while i is less than (not equal to) 1000
