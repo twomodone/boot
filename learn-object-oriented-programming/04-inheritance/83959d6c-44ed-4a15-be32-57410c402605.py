@@ -10,11 +10,11 @@ def main():
 
     for dragon in dragons:
         describe(dragon)
-        units = dragons.copy()
-        units.remove(dragon)
-        dragon.breathe_fire(3, 3, units)
-    
-
+        
+    for dragon in dragons:
+        dragons_copy = dragons.copy()
+        dragons_copy.remove(dragon)
+        dragon.breathe_fire(3, 3, dragons_copy)
 
 # don't touch below this line
 
