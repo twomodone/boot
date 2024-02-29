@@ -1,0 +1,1 @@
+Debug code and fix bugs in the software it manages
