@@ -1,0 +1,1 @@
+...to hide the differences between subtypes from users of your code.
